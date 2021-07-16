@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WallMarket</string>
+    <string name="nature">Nature</string>
+    <string name="animal">Animals</string>
+    <string name="cartoon">Animation</string>
+    <string name="other">Other</string>
+    <string name="discription">Description about the image...</string>
+    <string name="upload">Upload</string>
+</resources>

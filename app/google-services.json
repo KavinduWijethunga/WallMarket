@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "997555077161",
+    "firebase_url": "https://wallmarket-9f46e-default-rtdb.firebaseio.com",
+    "project_id": "wallmarket-9f46e",
+    "storage_bucket": "wallmarket-9f46e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997555077161:android:346287c53c3613d0359c38",
+        "android_client_info": {
+          "package_name": "com.example.wallmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997555077161-51cbcjst9ng24cs05vjbokdp4usnvrej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq-eOM6sbHFKgn139YUEs-bzvu9Sx-Ido"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997555077161-51cbcjst9ng24cs05vjbokdp4usnvrej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
